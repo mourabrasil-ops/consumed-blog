@@ -1,3 +1,9 @@
 {
-  "artigos": []
+  "artigos": [
+    {
+      "slug": "diabetes-exame-fundo-de-olho",
+      "status": "publicar",
+      "titulo": "Quem tem diabetes precisa fazer exame de fundo de olho todo ano?"
+    }
+  ]
 }

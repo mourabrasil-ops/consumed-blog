@@ -19,6 +19,16 @@
       "pagina": 454,
       "de": "Esta página explica o que são cookies",
       "para": "Esta página (teste) explica o que são cookies"
+    },
+    {
+      "id": "teste-2026-11-26-volta-texto2",
+      "tipo": "desfazer",
+      "alvo": "teste-2026-11-26-texto2"
+    },
+    {
+      "id": "teste-2026-11-26-volta-css",
+      "tipo": "desfazer",
+      "alvo": "teste-2026-11-26-css"
     }
   ]
 }

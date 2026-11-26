@@ -10,3 +10,15 @@ https://consumedolhos.com.br.
 
 Formato de cada artigo (`aprovados/<slug>.json`): `titulo`, `resumo`, `conteudo_html`,
 `referencias_html`, `aprovado_por`, `aprovado_em`.
+
+## Alterações do site (sem Chrome)
+
+O arquivo `site/alteracoes.json` é lido pelo site a cada 15 minutos (ou na hora, abrindo
+`https://consumedolhos.com.br/wp-json/consumed/v1/alteracoes?sync=1`).
+Cada item é aplicado uma única vez e guarda backup para poder desfazer:
+
+```json
+{"id": "2026-11-26-whats", "tipo": "substituir", "pagina": "todas", "de": "texto antigo", "para": "texto novo"}
+{"id": "2026-11-26-css",   "tipo": "css", "css": ".botao{color:red}"}
+{"id": "2026-11-27-volta", "tipo": "desfazer", "alvo": "2026-11-26-whats"}
+```

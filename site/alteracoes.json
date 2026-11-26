@@ -1,0 +1,4 @@
+{
+  "_como_usar": "Cada alteração tem um id único e é aplicada UMA vez. tipo: substituir (de/para, pagina = número da página ou 'todas'), css, desfazer (alvo = id). Status: https://consumedolhos.com.br/wp-json/consumed/v1/alteracoes",
+  "alteracoes": []
+}

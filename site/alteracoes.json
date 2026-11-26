@@ -12,6 +12,13 @@
       "pagina": 454,
       "de": "Política de cookies",
       "para": "Política de cookies (teste)"
+    },
+    {
+      "id": "teste-2026-11-26-texto2",
+      "tipo": "substituir",
+      "pagina": 454,
+      "de": "Esta página explica o que são cookies",
+      "para": "Esta página (teste) explica o que são cookies"
     }
   ]
 }

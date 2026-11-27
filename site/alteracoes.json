@@ -14,6 +14,41 @@
       "pagina": 135,
       "de": "Atendimento particular e por convênios.",
       "para": "Atendimento particular e pelos convênios Unimed (exceto crianças), Bradesco Saúde, Porto Seguro, Mediservice, Klini, Amil, Saúde Caixa, Blue e Hapvida/NotreDame."
+    },
+    {
+      "id": "2026-11-27-conv-catarata",
+      "tipo": "substituir",
+      "pagina": 1548,
+      "de": "Atendemos diversos convênios. Fale com a nossa equipe para confirmar a cobertura do seu plano antes da consulta.",
+      "para": "Atendemos os convênios Unimed (exceto crianças), Bradesco Saúde, Porto Seguro, Mediservice, Klini, Amil, Saúde Caixa, Blue e Hapvida/NotreDame. Fale com a nossa equipe para confirmar a cobertura do seu plano antes da consulta."
+    },
+    {
+      "id": "2026-11-27-conv-retina",
+      "tipo": "substituir",
+      "pagina": 1549,
+      "de": "Atendemos diversos convênios. Fale com a nossa equipe",
+      "para": "Atendemos os convênios Unimed (exceto crianças), Bradesco Saúde, Porto Seguro, Mediservice, Klini, Amil, Saúde Caixa, Blue e Hapvida/NotreDame. Fale com a nossa equipe"
+    },
+    {
+      "id": "2026-11-27-conv-glaucoma",
+      "tipo": "substituir",
+      "pagina": 1600,
+      "de": "Atendemos particular e diversos convênios para consultas, exames e cirurgia.",
+      "para": "Atendemos particular e os convênios Unimed (exceto crianças), Bradesco Saúde, Porto Seguro, Mediservice, Klini, Amil, Saúde Caixa, Blue e Hapvida/NotreDame para consultas, exames e cirurgia."
+    },
+    {
+      "id": "2026-11-27-conv-glaucoma-lateral",
+      "tipo": "substituir",
+      "pagina": 1600,
+      "de": "Atendimento particular e por convênios.",
+      "para": "Aceitamos Bradesco, Porto Seguro, Unimed e outros convênios."
+    },
+    {
+      "id": "2026-11-27-conv-plastica-lateral",
+      "tipo": "substituir",
+      "pagina": 1573,
+      "de": "Atendimento particular e por convênios.",
+      "para": "Aceitamos Bradesco, Porto Seguro, Unimed e outros convênios."
     }
   ]
 }

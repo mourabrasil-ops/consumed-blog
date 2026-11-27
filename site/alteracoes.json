@@ -7,6 +7,13 @@
       "pagina": 1565,
       "de": "Atendimento particular e por convênios.",
       "para": "Atendimento particular e pelos convênios Unimed (exceto crianças), Bradesco Saúde, Porto Seguro, Mediservice, Klini, Amil, Saúde Caixa, Blue e Hapvida/NotreDame."
+    },
+    {
+      "id": "2026-11-27-convenios-texto-135",
+      "tipo": "substituir",
+      "pagina": 135,
+      "de": "Atendimento particular e por convênios.",
+      "para": "Atendimento particular e pelos convênios Unimed (exceto crianças), Bradesco Saúde, Porto Seguro, Mediservice, Klini, Amil, Saúde Caixa, Blue e Hapvida/NotreDame."
     }
   ]
 }

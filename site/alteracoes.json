@@ -92,6 +92,13 @@
       "id": "2026-11-28-depoimentos-css3",
       "tipo": "css",
       "css": "@media (max-width:700px){#depoimentos .cx-dep-card:nth-child(n+4){display:none}}.hero .rating[onclick],.rating[onclick]{cursor:pointer}.rating[onclick] b{text-decoration:underline;text-underline-offset:3px}#depoimentos{scroll-margin-top:90px}"
+    },
+    {
+      "id": "2026-11-28-depoimentos-link-busca",
+      "tipo": "substituir",
+      "pagina": 1616,
+      "de": "<p class=\"cx-dep-more\"><a href=\"https://www.google.com/maps/search/?api=1&amp;query=Consumed+Cl%C3%ADnica+de+Olhos+Nova+Igua%C3%A7u\"",
+      "para": "<p class=\"cx-dep-more\"><a href=\"https://www.google.com/search?q=Consumed+Cl%C3%ADnica+de+Olhos+Nova+Igua%C3%A7u+avalia%C3%A7%C3%B5es\""
     }
   ]
 }
